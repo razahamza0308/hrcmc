@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/molla-ecom/static/css/main.6cdb6bf2.chunk.css",
+    "main.js": "/molla-ecom/static/js/main.7aede58a.chunk.js",
+    "main.js.map": "/molla-ecom/static/js/main.7aede58a.chunk.js.map",
+    "runtime-main.js": "/molla-ecom/static/js/runtime-main.efbb4db9.js",
+    "runtime-main.js.map": "/molla-ecom/static/js/runtime-main.efbb4db9.js.map",
+    "static/css/2.27175f2b.chunk.css": "/molla-ecom/static/css/2.27175f2b.chunk.css",
+    "static/js/2.6805e483.chunk.js": "/molla-ecom/static/js/2.6805e483.chunk.js",
+    "static/js/2.6805e483.chunk.js.map": "/molla-ecom/static/js/2.6805e483.chunk.js.map",
+    "static/js/3.c536048b.chunk.js": "/molla-ecom/static/js/3.c536048b.chunk.js",
+    "static/js/3.c536048b.chunk.js.map": "/molla-ecom/static/js/3.c536048b.chunk.js.map",
+    "index.html": "/molla-ecom/index.html",
+    "static/css/2.27175f2b.chunk.css.map": "/molla-ecom/static/css/2.27175f2b.chunk.css.map",
+    "static/css/main.6cdb6bf2.chunk.css.map": "/molla-ecom/static/css/main.6cdb6bf2.chunk.css.map",
+    "static/js/2.6805e483.chunk.js.LICENSE.txt": "/molla-ecom/static/js/2.6805e483.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efbb4db9.js",
+    "static/css/2.27175f2b.chunk.css",
+    "static/js/2.6805e483.chunk.js",
+    "static/css/main.6cdb6bf2.chunk.css",
+    "static/js/main.7aede58a.chunk.js"
+  ]
+}
